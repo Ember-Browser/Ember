@@ -1,10 +1,10 @@
 # Ember Browser
 
-Ember is (will be) a new WebKit-based browser to challenge Mozilla's Gecko-based Firefox, and hopefully save the Free Web from dying with them.
+Ember is (will be) a new WebKit-based browser to challenge [a privacy browser in decay](https://www.theverge.com/2020/8/11/21363424/mozilla-layoffs-quarter-staff-250-people-new-revenue-focus), and hopefully save the Free Web from dying with them.
 
 ## The reason we're doing this
 
-We feel that Mozilla have lost touch with their community, that Mozilla's management have corrupted the image that once was Firefox, and that Firefox, as a browser, is dying because of it.
+We feel that the team behind the biggest browser "for privacy" have [lost touch with their community](https://cdn.discordapp.com/attachments/893245920668450816/912474568873099264/unknown.png), that their management have corrupted the image that they once had, and that their browser is dying because of it.
 We chose WebKit because it's not only the most promising in our opinion, but because WebKit's beliefs of what a browser should do for the user align almost perfectly with ours.
 
 ## What we plan to do
@@ -46,6 +46,6 @@ Gecko (Firefox, LibreWolf, Waterfox) doesn't run WebGL or WebGPU well at all.
 
 Goanna (Pale Moon, Basilisk, SeaMonkey kind of) doesn't either, and they also have very poor support for modern web standards in general.
 
-Firefox as of now is still perfectly usable as a browser, but we feel it could be much better, so we decided to do our own browser with WebKit. WebKit is fully capable of tackling anything and everything the modern web can throw at it, all the while not making any sacrifices on the privacy or user safety front.
+The options that are available as of now is still perfectly usable, but we feel that there could be much better, so we decided to do our own browser with WebKit. WebKit is fully capable of tackling anything and everything the modern web can throw at it, all the while not making any sacrifices on the privacy or user safety front.
 
 We hope you find us one day once it's done, and we look forward to being your number one choice for privacy, performance, and everything in-between.
